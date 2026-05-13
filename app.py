@@ -139,4 +139,4 @@ if video_file:
                 )
                 ax.plot(plots["peaks_t"], env, color=ACCENT2, linestyle="--")
 
-            st.pyplot(fig)
+            st.pyplot(fig)# rebuild trigger
